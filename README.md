@@ -20,13 +20,13 @@ This is Web Application developed by Nilam Jyoti Sharma, where user can Authntic
 
 ## Authentication
 
-# The routes that can be accessed by Unauthenticated users - 
+The routes that can be accessed by Unauthenticated users - 
 
 "/",
 "/register",
 "/login"
 
-# The routes that can be accessed by Authenticated users only -
+The routes that can be accessed by Authenticated users only -
 
 '/dashboard',
 '/logout',
